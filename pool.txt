@@ -9,8 +9,10 @@ globalfan 85
 globalminer sgminer-gm-xmr
 
 # Monero
-sgminer-gm-xmr=proxypool1 mine.xmrpool.net:3333
-sgminer-gm-xmr=proxypool2 mine.xmrpool.net:3335 
+# address: 4BCeEPhodgPMbPWFN1dPwhWXdRX8q4mhhdZdA1dtSMLTLCEYvAj9QXjXAfF7CugEbmfBhgkqHbdgK9b2wKA6nqRZQCgvCDm
+# payment: fd962addf311e030fb9e15b617d3598b626fae28707ff8289e6eb9ae3cc7eece
+sgminer-gm-xmr=proxypool1 xmr-eu.dwarfpool.com:8050 
+sgminer-gm-xmr=proxypool2 xmr-usa.dwarfpool.com:8050 
 sgminer-gm-xmr=proxywallet 4BCeEPhodgPMbPWFN1dPwhWXdRX8q4mhhdZdA1dtSMLTLCEYvAj9QXjXAfF7CugEbmfBhgkqHbdgK9b2wKA6nqRZQCgvCDm.fd962addf311e030fb9e15b617d3598b626fae28707ff8289e6eb9ae3cc7eece
-sgminer-gm-xmr=poolpass1 wtm:fanatik99@gmail.com
-sgminer-gm-xmr=poolpass2 wtm:fanatik99@gmail.com
+sgminer-gm-xmr=poolpass1 fanatik99@gmail.com
+sgminer-gm-xmr=poolpass2 fanatik99@gmail.com
