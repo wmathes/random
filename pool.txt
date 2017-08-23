@@ -3,6 +3,7 @@ stratumproxy enabled
 proxywallet 0xdc7cd8d8ee2904e31501a58fe23fdaf938a422d7
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
+custompanel wtmwtmwtmwtm
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 globalminer sgminer-gm-xmr
